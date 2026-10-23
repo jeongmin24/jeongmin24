@@ -24,6 +24,8 @@ Spring Boot 기반 API 개발과 작업 상태 규칙·데이터 설계를 구�
 - 🐬 프론트엔드·인프라 담당자와 협업하며 서비스 전체 흐름을 이해하려고 노력합니다.
 - 🪁 현재 AI 코딩 도구의 Agent를 MCP로 연결하는 협업 플랫폼 **DevLink**를 개발 중입니다.
 
+<br />
+
 <!-- ===== Tech Stack ===== -->
 ## 💠 Tech Stack
 
@@ -49,6 +51,8 @@ Spring Boot 기반 API 개발과 작업 상태 규칙·데이터 설계를 구�
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
+<br />
+
 <!-- ===== Projects ===== -->
 ## 🐳 Projects
 
@@ -58,6 +62,8 @@ Spring Boot 기반 API 개발과 작업 상태 규칙·데이터 설계를 구�
 | [**PickPay**](https://github.com/jeongmin24/Pick-Pay) | 모바일 카페 주문·결제 서비스 | Kotlin, Spring Boot |
 | [**Gordi**](https://github.com/jeongmin24/GORDI) | 실시간 패션 의사결정 서비스 | Java, Spring Boot, Python |
 | [**On:마음**](https://github.com/jeongmin24/On-Maum) | 독거노인 이상 징후 감지 서비스 | Java, Spring Boot, Python, MQTT |
+
+<br />
 
 <!-- ===== GitHub Stats ===== -->
 ## 🌊 GitHub Stats
