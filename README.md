@@ -7,7 +7,7 @@
 
 ### ☁️ 안녕하세요, 백엔드 개발자 이정민입니다.
 
-<sub>요구사항을 명세로, 명세를 코드로 🧩</sub>
+<sub>요구사항을 명세로, 명세를 코드로 🫧</sub>
 
 팀이 함께 쓰는 서비스의 뼈대를 만듭니다.<br />
 Spring Boot 기반 API 개발과 작업 상태 규칙·데이터 설계를 구현했습니다.
@@ -17,15 +17,15 @@ Spring Boot 기반 API 개발과 작업 상태 규칙·데이터 설계를 구�
 <br />
 
 <!-- ===== About Me ===== -->
-## 🙋‍♂️ About Me
+## 🌤️ About Me
 
-- 🌱 **SSAFY**에서 Spring Boot 기반 백엔드 개발을 학습하며 팀 프로젝트를 진행하고 있습니다.
-- 🛠️ 요구사항을 명세로 정리하고, 상태 규칙과 API 설계를 코드로 옮기는 과정을 좋아합니다.
-- 🤝 프론트엔드·인프라 담당자와 협업하며 서비스 전체 흐름을 이해하려고 노력합니다.
-- 🔭 현재 AI 코딩 도구의 Agent를 MCP로 연결하는 협업 플랫폼 **DevLink**를 개발 중입니다.
+- 💧 **SSAFY**에서 Spring Boot 기반 백엔드 개발을 학습하며 팀 프로젝트를 진행하고 있습니다.
+- 🔹 요구사항을 명세로 정리하고, 상태 규칙과 API 설계를 코드로 옮기는 과정을 좋아합니다.
+- 🐬 프론트엔드·인프라 담당자와 협업하며 서비스 전체 흐름을 이해하려고 노력합니다.
+- 🪁 현재 AI 코딩 도구의 Agent를 MCP로 연결하는 협업 플랫폼 **DevLink**를 개발 중입니다.
 
 <!-- ===== Tech Stack ===== -->
-## 🧰 Tech Stack
+## 💠 Tech Stack
 
 **Backend**
 
@@ -50,7 +50,7 @@ Spring Boot 기반 API 개발과 작업 상태 규칙·데이터 설계를 구�
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 <!-- ===== Projects ===== -->
-## 📂 Projects
+## 🐳 Projects
 
 | 프로젝트 | 한 줄 소개 | 기술 |
 | --- | --- | --- |
@@ -60,7 +60,7 @@ Spring Boot 기반 API 개발과 작업 상태 규칙·데이터 설계를 구�
 | [**On:마음**](https://github.com/jeongmin24/On-Maum) | 독거노인 이상 징후 감지 서비스 | Java, Spring Boot, Python, MQTT |
 
 <!-- ===== GitHub Stats ===== -->
-## 📊 GitHub Stats
+## 🌊 GitHub Stats
 
 <div align="center">
 
