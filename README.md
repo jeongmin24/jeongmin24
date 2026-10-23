@@ -60,7 +60,7 @@ Spring Boot 기반 API 개발과 작업 상태 규칙·데이터 설계를 구�
 | --- | --- | --- |
 | [**NoRush**](https://github.com/jeongmin24/NoRush-Be) | 덜 붐비는 경로를 안내하는 길찾기 서비스 | Java, Spring Boot |
 | [**PickPay**](https://github.com/jeongmin24/Pick-Pay) | 모바일 카페 주문·결제 서비스 | Kotlin, Spring Boot |
-| [**Gordi**](https://github.com/jeongmin24/GORDI) | 실시간 패션 의사결정 서비스 | Java, Spring Boot, Python |
+| [**Gordi**](https://github.com/jeongmin24/GORDI) | 실시간 패션 의사결정 서비스 | Java, Spring Boot |
 | [**On:마음**](https://github.com/jeongmin24/On-Maum) | 독거노인 이상 징후 감지 서비스 | Java, Spring Boot, Python |
 
 <br />
