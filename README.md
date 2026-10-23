@@ -1,7 +1,7 @@
 <!-- ===== Header ===== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B9DFF5,50:D5D9F7,100:F7DCE8&height=220&section=header&text=Hi,%20I%27m%20Jeongmin!&fontSize=34&fontColor=526785&fontAlignY=38&desc=Backend%20Developer&descSize=16&descAlignY=57" alt="Hi, I am Jeongmin! | 파스텔 물결 헤더" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:DCEFFB,50:BFE0F7,100:A9D4F5&height=220&section=header&text=Hi,%20I%27m%20Jeongmin!&fontSize=34&fontColor=526785&fontAlignY=38&desc=Backend%20Developer&descSize=16&descAlignY=57" alt="Hi, I am Jeongmin! | 파스텔 물결 헤더" />
 
 <br />
 
@@ -11,10 +11,6 @@
 
 팀이 함께 쓰는 서비스의 뼈대를 만듭니다.<br />
 Spring Boot 기반 API 개발과 작업 상태 규칙·데이터 설계를 구현했습니다.
-
-<br />
-
-<a href="https://github.com/jeongmin24?tab=repositories"><img src="https://img.shields.io/badge/Repositories-DDD7F5?style=for-the-badge&logo=github&logoColor=526785" alt="GitHub 저장소" /></a>
 
 </div>
 
