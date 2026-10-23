@@ -1,12 +1,27 @@
 <!-- ===== Header ===== -->
-# 👋 Hi there
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EC%9D%B4%EC%A0%95%EB%AF%BC%EC%9E%85%EB%8B%88%EB%8B%A4;Spring+Boot%EB%A1%9C+%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC+%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4&font=Fira+Code&size=22&pause=1000&color=6DB33F&width=600&height=40)](https://github.com/jeongmin24)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B9DFF5,50:D5D9F7,100:F7DCE8&height=220&section=header&text=Hi,%20I%27m%20Jeongmin!&fontSize=34&fontColor=526785&fontAlignY=38&desc=Backend%20Developer&descSize=16&descAlignY=57" alt="Hi, I am Jeongmin! | 파스텔 물결 헤더" />
+
+<br />
+
+### ☁️ 안녕하세요, 백엔드 개발자 이정민입니다.
+
+<sub>요구사항을 명세로, 명세를 코드로 🧩</sub>
+
+팀이 함께 쓰는 서비스의 뼈대를 만듭니다.<br />
+Spring Boot 기반 API 개발과 작업 상태 규칙·데이터 설계를 구현했습니다.
+
+<br />
+
+<a href="https://github.com/jeongmin24?tab=repositories"><img src="https://img.shields.io/badge/Repositories-DDD7F5?style=for-the-badge&logo=github&logoColor=526785" alt="GitHub 저장소" /></a>
+
+</div>
+
+<br />
 
 <!-- ===== About Me ===== -->
 ## 🙋‍♂️ About Me
-
-안녕하세요, 백엔드 개발자 **이정민**입니다.
 
 - 🌱 **SSAFY**에서 Spring Boot 기반 백엔드 개발을 학습하며 팀 프로젝트를 진행하고 있습니다.
 - 🛠️ 요구사항을 명세로 정리하고, 상태 규칙과 API 설계를 코드로 옮기는 과정을 좋아합니다.
