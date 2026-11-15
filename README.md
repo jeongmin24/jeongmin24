@@ -39,7 +39,6 @@ Spring Boot 기반 API 개발과 작업 상태 규칙·데이터 설계를 구�
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Spring Tool Suite](https://img.shields.io/badge/Spring%20Tool%20Suite-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![VS Code][vscode-badge]
 
 **Collaboration**
 
