@@ -19,9 +19,9 @@ Spring Boot 기반 API 개발과 작업 상태 규칙·데이터 설계를 구�
 <!-- ===== About Me ===== -->
 ## 🌤️ About Me
 
-- 💧 데이터의 흐름과 서비스의 책임을 명확하게 나누고, 구현 결과가 요구사항에 맞는지 검증하는 데 초점을 둡니다.
-- 🔹 기능이 동작하는 데서 끝내지 않고, 왜 이런 구조가 필요한지와 더 나은 방법은 없는지 찾아보는 과정을 즐깁니다.
-- 🐬 팀 프로젝트에서 백엔드 서비스와 데이터 파이프라인을 설계·분석한 경험을 바탕으로, **SSAFY 15기 모바일 트랙**에서 구현과 협업 역량을 함께 확장하고 있습니다.
+💧 데이터의 흐름과 서비스의 책임을 명확하게 나누고, 구현 결과가 요구사항에 맞는지 검증하는 데 초점을 둡니다.<br />
+🔹 기능이 동작하는 데서 끝내지 않고, 왜 이런 구조가 필요한지와 더 나은 방법은 없는지 찾아보는 과정을 즐깁니다.<br />
+🐬 팀 프로젝트에서 백엔드 서비스와 데이터 파이프라인을 설계·분석한 경험을 바탕으로, **SSAFY 15기 모바일 트랙**에서 구현과 협업 역량을 함께 확장하고 있습니다.
 
 <br />
 
@@ -63,3 +63,20 @@ Spring Boot 기반 API 개발과 작업 상태 규칙·데이터 설계를 구�
 
 <br />
 
+<!-- ===== Git Animals ===== -->
+## 🐧 Git Animals
+
+<div align="center">
+
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=jeongmin24&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/jeongmin24"
+  width="600"
+  height="300"
+  alt="jeongmin24의 Git Animals 농장"
+/>
+</a>
+
+</div>
+
+<br />
