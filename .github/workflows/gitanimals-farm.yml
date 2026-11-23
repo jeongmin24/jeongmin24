@@ -1,0 +1,55 @@
+name: Update Git Animals farm
+
+# Git Animals 농장 이미지를 받아 사용자 이름만 지운 뒤 output 브랜치에 올린다.
+# README는 output 브랜치의 gitanimals-farm.svg 를 표시한다.
+
+on:
+  schedule:
+    - cron: "17 */6 * * *" # 6시간마다 (UTC 기준 매 6시 17분)
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/gitanimals-farm.yml
+      - .github/scripts/strip_farm_name.py
+
+permissions:
+  contents: write
+
+concurrency:
+  group: gitanimals-farm
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download farm image
+        run: |
+          curl -fsSL --retry 3 --retry-delay 10 \
+            "https://render.gitanimals.org/farms/${GITHUB_REPOSITORY_OWNER}" \
+            -o "${RUNNER_TEMP}/farm-raw.svg"
+
+      - name: Remove username
+        run: |
+          mkdir -p "${RUNNER_TEMP}/out"
+          python3 .github/scripts/strip_farm_name.py \
+            "${RUNNER_TEMP}/farm-raw.svg" \
+            "${RUNNER_TEMP}/out/gitanimals-farm.svg"
+
+      - name: Publish to output branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd "${RUNNER_TEMP}/out"
+          git init --quiet -b output
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add gitanimals-farm.svg
+          git commit --quiet -m "Update Git Animals farm image"
+          git push --force --quiet \
+            "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" \
+            output
