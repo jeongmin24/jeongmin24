@@ -66,17 +66,13 @@ Spring Boot 기반 API 개발과 작업 상태 규칙·데이터 설계를 구�
 <!-- ===== Git Animals ===== -->
 ## 🐧 Git Animals
 
-<div align="center">
-
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=jeongmin24&utm_content=farm">
 <img
   src="https://raw.githubusercontent.com/jeongmin24/jeongmin24/output/gitanimals-farm.svg"
-  width="600"
-  height="300"
+  width="400"
+  height="200"
   alt="jeongmin24의 Git Animals 농장"
 />
 </a>
-
-</div>
 
 <br />
